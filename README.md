@@ -19,6 +19,14 @@ I'm Nuala, a passionate Full-Stack Web Developer based in Dublin, Ireland.
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS logo" width="50px" height="50px" />
 
 ---
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nualagr&show_icons=true)](https://github.com/nualagr/github-readme-stats)
+
+---
+
+### Contact Me :speech_balloon: :
+:handshake: [LinkedIn](https://www.linkedin.com/in/nuala-greenwood-46a2a91b2/)<br>
+
 <!--
 **nualagr/nualagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
