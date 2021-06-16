@@ -39,7 +39,7 @@ I'm Nuala, a passionate Full-Stack Web Developer based in Dublin, Ireland.
 ---
 
 ### Contact Me :speech_balloon: :
-:handshake: [LinkedIn](www.linkedin.com/in/nuala-greenwood/)<br>
+:handshake: [LinkedIn](https://www.linkedin.com/in/nuala-greenwood/)<br>
 
 <!--
 **nualagr/nualagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
