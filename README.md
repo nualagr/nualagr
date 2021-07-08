@@ -1,6 +1,6 @@
 ## "Hello, World!" 👋
 
-I'm Nuala, a passionate Full-Stack Web Developer based in Dublin, Ireland.
+I'm Nuala, a detail-oriented Full-Stack Web Developer based in Dublin, Ireland.
 
 ---
 
