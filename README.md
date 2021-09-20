@@ -46,7 +46,7 @@ I'm Nuala, a detail-oriented Full-Stack Web Developer based in Dublin, Ireland.
 
 ### Credits
 
-Thank to [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile) for the badges and [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats.
+Thanks to [Alexandre Sanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile) for the badges and [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats.
 
 <!--
 **nualagr/nualagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
