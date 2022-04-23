@@ -9,6 +9,7 @@ I'm Nuala, a detail-oriented Full-Stack Web Developer based in Dublin, Ireland.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-A91401?style=for-the-badge&logo=ruby&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Databases
@@ -18,6 +19,7 @@ I'm Nuala, a detail-oriented Full-Stack Web Developer based in Dublin, Ireland.
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frameworks | Libraries
+![Ruby On Rails](https://img.shields.io/badge/Ruby_On_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
